@@ -1,0 +1,4506 @@
+{
+  "description": "Human-verified audit subset of 500 expressions sampled across all splits and query types.",
+  "size": 500,
+  "expressions": [
+    {
+      "sequence_id": "v_5ekaksddqrc_c001",
+      "track_id": 4,
+      "frame_id": 412,
+      "query": "#25 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c004",
+      "track_id": 11,
+      "frame_id": 211,
+      "query": "The player positioned on the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ApPxnw_Jffg_c016",
+      "track_id": 8,
+      "frame_id": 74,
+      "query": "The player positioned near the right sideline.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-154",
+      "track_id": 7,
+      "frame_id": 532,
+      "query": "The player in gray and brown in the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-071",
+      "track_id": 2,
+      "frame_id": 24,
+      "query": "The player positioned in the middle-left near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 1,
+      "frame_id": 371,
+      "query": "The gray and brown player moving right in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 25,
+      "frame_id": 445,
+      "query": "number 15",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c010",
+      "track_id": 18,
+      "frame_id": 348,
+      "query": "The player in brown and gray kit near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 21,
+      "frame_id": 477,
+      "query": "The brown and gray player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c012",
+      "track_id": 9,
+      "frame_id": 409,
+      "query": "The player positioned at center court near the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-065",
+      "track_id": 21,
+      "frame_id": 151,
+      "query": "player wearing #17",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-154",
+      "track_id": 4,
+      "frame_id": 437,
+      "query": "The gray and brown player moving right near the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 16,
+      "frame_id": 619,
+      "query": "player wearing #10",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c005",
+      "track_id": 5,
+      "frame_id": 508,
+      "query": "The player standing near the paint area.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-168",
+      "track_id": 1,
+      "frame_id": 1,
+      "query": "The player in brown and gray kit near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 3,
+      "frame_id": 15,
+      "query": "The player in brown and green kit near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c003",
+      "track_id": 9,
+      "frame_id": 1,
+      "query": "the #19 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c003",
+      "track_id": 4,
+      "frame_id": 229,
+      "query": "The gray and brown player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_9MHDmAMxO5I_c006",
+      "track_id": 4,
+      "frame_id": 146,
+      "query": "The gray and brown player moving right at center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 14,
+      "frame_id": 475,
+      "query": "The player positioned in the central channel and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-063",
+      "track_id": 23,
+      "frame_id": 711,
+      "query": "The green and brown player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-155",
+      "track_id": 20,
+      "frame_id": 288,
+      "query": "The gray and brown player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-169",
+      "track_id": 4,
+      "frame_id": 302,
+      "query": "the player with jersey 4",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_CW0mQbgYIF4_c005",
+      "track_id": 6,
+      "frame_id": 85,
+      "query": "The player in a yellow jersey with number 1 near the left sideline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-165",
+      "track_id": 4,
+      "frame_id": 137,
+      "query": "the #15 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c010",
+      "track_id": 12,
+      "frame_id": 586,
+      "query": "The player running up the central channel.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-102",
+      "track_id": 21,
+      "frame_id": 1,
+      "query": "The player in brown and gray kit near the lower-center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c007",
+      "track_id": 4,
+      "frame_id": 55,
+      "query": "number 33",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-097",
+      "track_id": 7,
+      "frame_id": 111,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 16,
+      "frame_id": 619,
+      "query": "The player in gray and brown near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-110",
+      "track_id": 23,
+      "frame_id": 313,
+      "query": "The pink and gray player moving left in the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 18,
+      "frame_id": 292,
+      "query": "The player running left through the central channel.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-113",
+      "track_id": 15,
+      "frame_id": 718,
+      "query": "The player in brown and green near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-167",
+      "track_id": 23,
+      "frame_id": 732,
+      "query": "The player in brown and gray near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-071",
+      "track_id": 9,
+      "frame_id": 632,
+      "query": "The player in green and brown kit near lower center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c600",
+      "track_id": 14,
+      "frame_id": 234,
+      "query": "The player positioned near the left touchline and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 22,
+      "frame_id": 511,
+      "query": "The player in gray and brown kit moving down the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c047",
+      "track_id": 9,
+      "frame_id": 12,
+      "query": "#2 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c609",
+      "track_id": 0,
+      "frame_id": 500,
+      "query": "The player positioned in the central channel near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c600",
+      "track_id": 6,
+      "frame_id": 185,
+      "query": "The gray and brown player standing in the center circle area.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_cC2mHWqMcjk_c009",
+      "track_id": 2,
+      "frame_id": 132,
+      "query": "number 15",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-077",
+      "track_id": 22,
+      "frame_id": 186,
+      "query": "the player with jersey 13",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 4,
+      "frame_id": 36,
+      "query": "The player in the dark kit, number 27, running in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-100",
+      "track_id": 7,
+      "frame_id": 299,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-071",
+      "track_id": 8,
+      "frame_id": 605,
+      "query": "number 7",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c012",
+      "track_id": 16,
+      "frame_id": 757,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 6,
+      "frame_id": 153,
+      "query": "The player positioned in the lower-left near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c609",
+      "track_id": 10,
+      "frame_id": 384,
+      "query": "#25 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-099",
+      "track_id": 24,
+      "frame_id": 460,
+      "query": "the #33 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c012",
+      "track_id": 9,
+      "frame_id": 409,
+      "query": "The player standing in the middle-center zone.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_9MHDmAMxO5I_c006",
+      "track_id": 2,
+      "frame_id": 179,
+      "query": "The player in blue is shuffling near center court.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-106",
+      "track_id": 3,
+      "frame_id": 659,
+      "query": "The player positioned close to the left touchline and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c008",
+      "track_id": 6,
+      "frame_id": 409,
+      "query": "The player positioned at center court near the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-104",
+      "track_id": 2,
+      "frame_id": 519,
+      "query": "The player positioned in the center circle and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-074",
+      "track_id": 17,
+      "frame_id": 383,
+      "query": "The player positioned in the upper-center central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-100",
+      "track_id": 15,
+      "frame_id": 394,
+      "query": "The brown and gray player moving left near the left touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-169",
+      "track_id": 9,
+      "frame_id": 326,
+      "query": "The player in brown and green kit near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 2,
+      "frame_id": 147,
+      "query": "The player in brown and green kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c600",
+      "track_id": 9,
+      "frame_id": 322,
+      "query": "The gray and brown player moving left in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c007",
+      "track_id": 5,
+      "frame_id": 20,
+      "query": "The orange and pink player running left near center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 5,
+      "frame_id": 584,
+      "query": "The player in brown and gray kit near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-114",
+      "track_id": 9,
+      "frame_id": 629,
+      "query": "number 22",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 19,
+      "frame_id": 735,
+      "query": "The player positioned by the left touchline and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c601",
+      "track_id": 4,
+      "frame_id": 473,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-105",
+      "track_id": 26,
+      "frame_id": 733,
+      "query": "The player wearing pink and gray in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c002",
+      "track_id": 5,
+      "frame_id": 175,
+      "query": "The brown and gray player moving down at center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 6,
+      "frame_id": 713,
+      "query": "The brown and green player moving right near the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-073",
+      "track_id": 23,
+      "frame_id": 535,
+      "query": "The player is running toward the right side.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-064",
+      "track_id": 19,
+      "frame_id": 599,
+      "query": "The player positioned in the central channel and right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c601",
+      "track_id": 16,
+      "frame_id": 172,
+      "query": "The green and brown player moving up near the right touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-170",
+      "track_id": 18,
+      "frame_id": 218,
+      "query": "The player positioned in the center circle and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-163",
+      "track_id": 14,
+      "frame_id": 282,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 5,
+      "frame_id": 625,
+      "query": "The player in gray and brown kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-104",
+      "track_id": 8,
+      "frame_id": 1,
+      "query": "The player positioned in the lower-right near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-166",
+      "track_id": 18,
+      "frame_id": 475,
+      "query": "The player in brown and gray near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c009",
+      "track_id": 16,
+      "frame_id": 421,
+      "query": "The gray and brown player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-097",
+      "track_id": 15,
+      "frame_id": 235,
+      "query": "The brown and gray player moving left near the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 19,
+      "frame_id": 409,
+      "query": "The player in gray and green near the lower right.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c008",
+      "track_id": 1,
+      "frame_id": 2,
+      "query": "The pink and yellow player moving right near center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c006",
+      "track_id": 5,
+      "frame_id": 578,
+      "query": "The player in brown and gray kit near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-063",
+      "track_id": 11,
+      "frame_id": 151,
+      "query": "number 25",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_HdiyOtliFiw_c003",
+      "track_id": 2,
+      "frame_id": 266,
+      "query": "The player in gray and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-073",
+      "track_id": 15,
+      "frame_id": 155,
+      "query": "The player in green and brown kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c002",
+      "track_id": 7,
+      "frame_id": 256,
+      "query": "The gray and brown player moving right at center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-115",
+      "track_id": 12,
+      "frame_id": 366,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-063",
+      "track_id": 24,
+      "frame_id": 699,
+      "query": "The player in brown and gray near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 15,
+      "frame_id": 481,
+      "query": "the player with jersey 23",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c012",
+      "track_id": 6,
+      "frame_id": 7,
+      "query": "The player positioned at center court near the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-106",
+      "track_id": 3,
+      "frame_id": 659,
+      "query": "The gray and brown player moving left near the left touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-071",
+      "track_id": 9,
+      "frame_id": 632,
+      "query": "The player running left in the lower center zone.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-113",
+      "track_id": 25,
+      "frame_id": 456,
+      "query": "The brown and green player standing by the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c003",
+      "track_id": 5,
+      "frame_id": 886,
+      "query": "the player dribbling near center court and the paint",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-072",
+      "track_id": 6,
+      "frame_id": 375,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-104",
+      "track_id": 15,
+      "frame_id": 750,
+      "query": "The player in brown and gray kit near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c053",
+      "track_id": 3,
+      "frame_id": 369,
+      "query": "number 32",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-105",
+      "track_id": 6,
+      "frame_id": 54,
+      "query": "The player positioned near the left touchline and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-101",
+      "track_id": 18,
+      "frame_id": 175,
+      "query": "the player with jersey 4",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-060",
+      "track_id": 17,
+      "frame_id": 185,
+      "query": "The player in gray and pink in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-065",
+      "track_id": 5,
+      "frame_id": 639,
+      "query": "The gray and brown player moving up in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 8,
+      "frame_id": 288,
+      "query": "The player in green and brown near the lower center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-097",
+      "track_id": 8,
+      "frame_id": 42,
+      "query": "the brown and green player moving down the central channel near the left wing",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-066",
+      "track_id": 12,
+      "frame_id": 527,
+      "query": "The brown and green player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c007",
+      "track_id": 0,
+      "frame_id": 585,
+      "query": "player wearing #14",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_4-EmEtrturE_c009",
+      "track_id": 8,
+      "frame_id": 213,
+      "query": "The player in gray and brown at center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-169",
+      "track_id": 21,
+      "frame_id": 404,
+      "query": "The player wearing brown and green near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c003",
+      "track_id": 3,
+      "frame_id": 884,
+      "query": "The player positioned at center court.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c067",
+      "track_id": 3,
+      "frame_id": 52,
+      "query": "The player in brown and green in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 14,
+      "frame_id": 314,
+      "query": "The player positioned in the center circle and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 4,
+      "frame_id": 419,
+      "query": "The player in brown and gray kit near central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 1,
+      "frame_id": 371,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c053",
+      "track_id": 6,
+      "frame_id": 158,
+      "query": "The player positioned in the central channel by the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-114",
+      "track_id": 16,
+      "frame_id": 327,
+      "query": "The player in brown and gray near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-106",
+      "track_id": 2,
+      "frame_id": 55,
+      "query": "The player positioned in the central channel near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 15,
+      "frame_id": 151,
+      "query": "The player in gray and brown near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c001",
+      "track_id": 6,
+      "frame_id": 492,
+      "query": "The player wearing brown and gray near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-066",
+      "track_id": 24,
+      "frame_id": 717,
+      "query": "The player wearing brown and gray in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 19,
+      "frame_id": 713,
+      "query": "The player in the gray and brown kit near upper-center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 16,
+      "frame_id": 66,
+      "query": "The brown and green player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-066",
+      "track_id": 15,
+      "frame_id": 277,
+      "query": "The player in the middle-center wearing gray and brown.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-098",
+      "track_id": 21,
+      "frame_id": 559,
+      "query": "The player in brown and green in the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-074",
+      "track_id": 6,
+      "frame_id": 700,
+      "query": "number 2",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_2j7kLB-vEEk_c001",
+      "track_id": 1,
+      "frame_id": 815,
+      "query": "The player in the middle-center wearing a black and brown jersey.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_HdiyOtliFiw_c003",
+      "track_id": 8,
+      "frame_id": 754,
+      "query": "The player positioned by the right touchline and right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c004",
+      "track_id": 10,
+      "frame_id": 83,
+      "query": "The player in white and pink near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-063",
+      "track_id": 14,
+      "frame_id": 382,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-064",
+      "track_id": 1,
+      "frame_id": 506,
+      "query": "The gray and brown player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c003",
+      "track_id": 10,
+      "frame_id": 489,
+      "query": "The player positioned on the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c600",
+      "track_id": 4,
+      "frame_id": 308,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-098",
+      "track_id": 2,
+      "frame_id": 750,
+      "query": "The player jogging left in the center circle area.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-109",
+      "track_id": 5,
+      "frame_id": 722,
+      "query": "The player in brown and gray kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 10,
+      "frame_id": 73,
+      "query": "The player in brown and gray near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 10,
+      "frame_id": 377,
+      "query": "the #12 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-060",
+      "track_id": 21,
+      "frame_id": 407,
+      "query": "The player positioned in the central channel near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-165",
+      "track_id": 18,
+      "frame_id": 391,
+      "query": "player wearing #19",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 14,
+      "frame_id": 350,
+      "query": "The brown and gray player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-102",
+      "track_id": 26,
+      "frame_id": 693,
+      "query": "The gray and pink player moving right on the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-076",
+      "track_id": 27,
+      "frame_id": 662,
+      "query": "The gray and pink player moving right near the left touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-060",
+      "track_id": 25,
+      "frame_id": 583,
+      "query": "The brown and green player standing in the central channel right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c007",
+      "track_id": 18,
+      "frame_id": 624,
+      "query": "The player in brown and gray in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-155",
+      "track_id": 6,
+      "frame_id": 321,
+      "query": "The player wearing gray and pink in the middle-center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-107",
+      "track_id": 16,
+      "frame_id": 507,
+      "query": "The brown and gray player running in the central channel near center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-163",
+      "track_id": 12,
+      "frame_id": 1,
+      "query": "the #30 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c003",
+      "track_id": 2,
+      "frame_id": 717,
+      "query": "The player positioned inside the paint near the basket.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-114",
+      "track_id": 8,
+      "frame_id": 78,
+      "query": "The player near the center circle in the central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c011",
+      "track_id": 6,
+      "frame_id": 19,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 2,
+      "frame_id": 147,
+      "query": "the #32 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 5,
+      "frame_id": 559,
+      "query": "#15 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-154",
+      "track_id": 14,
+      "frame_id": 390,
+      "query": "number 13",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-165",
+      "track_id": 5,
+      "frame_id": 2,
+      "query": "The player in the gray and brown kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 2,
+      "frame_id": 719,
+      "query": "The player in gray and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-069",
+      "track_id": 21,
+      "frame_id": 218,
+      "query": "The gray and brown player standing by the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-154",
+      "track_id": 19,
+      "frame_id": 390,
+      "query": "The player in brown and red in the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-167",
+      "track_id": 10,
+      "frame_id": 422,
+      "query": "The brown and gray player running near the right touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 18,
+      "frame_id": 160,
+      "query": "The player in brown and green kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-167",
+      "track_id": 8,
+      "frame_id": 598,
+      "query": "The player in gray and pink near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-107",
+      "track_id": 25,
+      "frame_id": 601,
+      "query": "The brown and green player moving left on the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-104",
+      "track_id": 9,
+      "frame_id": 637,
+      "query": "The player wearing a brown and orange kit in the middle-center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 15,
+      "frame_id": 179,
+      "query": "#8 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c010",
+      "track_id": 15,
+      "frame_id": 264,
+      "query": "The gray and brown player moving right near the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-157",
+      "track_id": 7,
+      "frame_id": 443,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-153",
+      "track_id": 20,
+      "frame_id": 593,
+      "query": "The gray and brown player moving left near the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_9MHDmAMxO5I_c003",
+      "track_id": 7,
+      "frame_id": 61,
+      "query": "The player in a white jersey, number 1, running near center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-164",
+      "track_id": 19,
+      "frame_id": 501,
+      "query": "The player in the middle-center wearing brown and gray.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c008",
+      "track_id": 4,
+      "frame_id": 938,
+      "query": "The player in the blue Kentucky jersey near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 3,
+      "frame_id": 193,
+      "query": "#12 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c004",
+      "track_id": 7,
+      "frame_id": 407,
+      "query": "The player in brown and green near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c012",
+      "track_id": 10,
+      "frame_id": 649,
+      "query": "The player positioned in the central channel near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c601",
+      "track_id": 14,
+      "frame_id": 471,
+      "query": "The player in the middle-center wearing gray and brown.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_cC2mHWqMcjk_c009",
+      "track_id": 5,
+      "frame_id": 374,
+      "query": "The player in green is jumping near center court.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c001",
+      "track_id": 6,
+      "frame_id": 567,
+      "query": "The player in blue with green shoes near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-066",
+      "track_id": 5,
+      "frame_id": 263,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 3,
+      "frame_id": 15,
+      "query": "The player in brown and green near the right touchline moving down.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-168",
+      "track_id": 14,
+      "frame_id": 426,
+      "query": "the player positioned in the central channel near the left wing",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 4,
+      "frame_id": 305,
+      "query": "the player with jersey 11",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-106",
+      "track_id": 15,
+      "frame_id": 68,
+      "query": "The player in the gray and brown kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-106",
+      "track_id": 7,
+      "frame_id": 115,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-168",
+      "track_id": 13,
+      "frame_id": 182,
+      "query": "The player positioned in the central channel near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-151",
+      "track_id": 7,
+      "frame_id": 238,
+      "query": "The player in gray and purple in the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 2,
+      "frame_id": 749,
+      "query": "the player positioned in the center circle",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 16,
+      "frame_id": 435,
+      "query": "The brown and gray player moving right near the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 9,
+      "frame_id": 616,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 3,
+      "frame_id": 193,
+      "query": "The player in brown and gray in the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c077",
+      "track_id": 1,
+      "frame_id": 798,
+      "query": "Player positioned in the center circle area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-066",
+      "track_id": 4,
+      "frame_id": 307,
+      "query": "#25 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-103",
+      "track_id": 7,
+      "frame_id": 622,
+      "query": "The player in brown and green running near the lower center.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c004",
+      "track_id": 19,
+      "frame_id": 276,
+      "query": "The player positioned near the right touchline and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-066",
+      "track_id": 8,
+      "frame_id": 607,
+      "query": "The player positioned in the central channel zone.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-163",
+      "track_id": 13,
+      "frame_id": 382,
+      "query": "The player in brown and gray near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 21,
+      "frame_id": 725,
+      "query": "the player in gray and pink near the right wing",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-164",
+      "track_id": 4,
+      "frame_id": 485,
+      "query": "The brown and gray player moving up near the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 7,
+      "frame_id": 711,
+      "query": "the #13 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_2j7kLB-vEEk_c001",
+      "track_id": 1,
+      "frame_id": 815,
+      "query": "#14 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c001",
+      "track_id": 8,
+      "frame_id": 293,
+      "query": "The player in a yellow jersey near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-100",
+      "track_id": 7,
+      "frame_id": 299,
+      "query": "The player wearing white and pink in the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c004",
+      "track_id": 11,
+      "frame_id": 211,
+      "query": "The gray and brown player moving left on the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-073",
+      "track_id": 24,
+      "frame_id": 99,
+      "query": "The brown and green player moving up near the left touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-112",
+      "track_id": 5,
+      "frame_id": 124,
+      "query": "The brown and gray player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_cC2mHWqMcjk_c008",
+      "track_id": 7,
+      "frame_id": 51,
+      "query": "number 6",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-113",
+      "track_id": 26,
+      "frame_id": 461,
+      "query": "The player in brown and green near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c047",
+      "track_id": 2,
+      "frame_id": 227,
+      "query": "The player in brown and green near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-103",
+      "track_id": 11,
+      "frame_id": 560,
+      "query": "The player in gray and pink near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 13,
+      "frame_id": 454,
+      "query": "The player positioned in the central channel near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-103",
+      "track_id": 4,
+      "frame_id": 132,
+      "query": "The brown and gray player moving left in the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-069",
+      "track_id": 23,
+      "frame_id": 301,
+      "query": "The player in green and brown kit near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-155",
+      "track_id": 9,
+      "frame_id": 271,
+      "query": "The player positioned in the central channel and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c609",
+      "track_id": 7,
+      "frame_id": 34,
+      "query": "The player in brown and gray near the lower-center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c067",
+      "track_id": 20,
+      "frame_id": 403,
+      "query": "number 3",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-157",
+      "track_id": 2,
+      "frame_id": 545,
+      "query": "The brown and gray player moving down near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c014",
+      "track_id": 9,
+      "frame_id": 865,
+      "query": "The player in the middle-center wearing brown and gray.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 1,
+      "frame_id": 372,
+      "query": "The player in the middle-center wearing pink and gray.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c601",
+      "track_id": 8,
+      "frame_id": 90,
+      "query": "number 6",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-075",
+      "track_id": 11,
+      "frame_id": 350,
+      "query": "The player wearing brown and gray in the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-074",
+      "track_id": 3,
+      "frame_id": 250,
+      "query": "the player with jersey 32",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c001",
+      "track_id": 3,
+      "frame_id": 254,
+      "query": "The gray and brown player moving down near center court and the paint.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-169",
+      "track_id": 20,
+      "frame_id": 601,
+      "query": "The brown and gray player moving right in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c010",
+      "track_id": 12,
+      "frame_id": 586,
+      "query": "The player in gray and brown near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-105",
+      "track_id": 15,
+      "frame_id": 148,
+      "query": "The brown and green player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c609",
+      "track_id": 8,
+      "frame_id": 409,
+      "query": "The gray and brown player moving down near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c053",
+      "track_id": 1,
+      "frame_id": 391,
+      "query": "The player positioned on the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 2,
+      "frame_id": 719,
+      "query": "number 4",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_HdiyOtliFiw_c003",
+      "track_id": 16,
+      "frame_id": 706,
+      "query": "The player wearing brown and gray in the upper-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 5,
+      "frame_id": 645,
+      "query": "The player positioned in the central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1LwtoLPw2TU_c006",
+      "track_id": 2,
+      "frame_id": 55,
+      "query": "The player in a white jersey and black shorts near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-168",
+      "track_id": 20,
+      "frame_id": 568,
+      "query": "The brown and green player advancing down near the left touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-098",
+      "track_id": 21,
+      "frame_id": 559,
+      "query": "The player in the central channel is standing.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-153",
+      "track_id": 9,
+      "frame_id": 205,
+      "query": "The player positioned in the central channel by the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c077",
+      "track_id": 19,
+      "frame_id": 659,
+      "query": "the #30 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c004",
+      "track_id": 12,
+      "frame_id": 568,
+      "query": "The gray and brown player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-104",
+      "track_id": 11,
+      "frame_id": 324,
+      "query": "The player in brown and green kit near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 19,
+      "frame_id": 361,
+      "query": "the gray and brown player moving down the central channel",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-072",
+      "track_id": 1,
+      "frame_id": 517,
+      "query": "The player wearing gray and pink in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c600",
+      "track_id": 9,
+      "frame_id": 322,
+      "query": "The player in gray and brown in the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-076",
+      "track_id": 10,
+      "frame_id": 2,
+      "query": "The player in green and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 14,
+      "frame_id": 737,
+      "query": "#17 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c007",
+      "track_id": 5,
+      "frame_id": 268,
+      "query": "The player positioned near the center court area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 18,
+      "frame_id": 236,
+      "query": "The player wearing gray and pink in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 18,
+      "frame_id": 654,
+      "query": "The player in the brown and green kit near midfield.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-165",
+      "track_id": 19,
+      "frame_id": 747,
+      "query": "The player in brown and gray kit near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c005",
+      "track_id": 1,
+      "frame_id": 519,
+      "query": "The brown and gray player moving right at center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 10,
+      "frame_id": 232,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-153",
+      "track_id": 3,
+      "frame_id": 132,
+      "query": "The orange-clad player moving left in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-062",
+      "track_id": 11,
+      "frame_id": 699,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 18,
+      "frame_id": 309,
+      "query": "The player in gray and brown near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c609",
+      "track_id": 4,
+      "frame_id": 489,
+      "query": "The player in gray and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 10,
+      "frame_id": 178,
+      "query": "#5 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c609",
+      "track_id": 16,
+      "frame_id": 252,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c601",
+      "track_id": 6,
+      "frame_id": 479,
+      "query": "The player positioned on the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c601",
+      "track_id": 12,
+      "frame_id": 479,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c006",
+      "track_id": 1,
+      "frame_id": 434,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-151",
+      "track_id": 25,
+      "frame_id": 735,
+      "query": "The player positioned in the upper-center penalty area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 1,
+      "frame_id": 323,
+      "query": "The player positioned in the central channel, right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c053",
+      "track_id": 10,
+      "frame_id": 238,
+      "query": "The player positioned in the center circle and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 4,
+      "frame_id": 13,
+      "query": "the player in the central channel near the upper-center",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-158",
+      "track_id": 25,
+      "frame_id": 366,
+      "query": "The player in white with orange boots near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 5,
+      "frame_id": 557,
+      "query": "The player jogging in the central channel near the penalty area.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-169",
+      "track_id": 15,
+      "frame_id": 413,
+      "query": "the #19 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 5,
+      "frame_id": 119,
+      "query": "The brown and gray player moving up in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-060",
+      "track_id": 24,
+      "frame_id": 539,
+      "query": "The player in brown and green kit near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 2,
+      "frame_id": 719,
+      "query": "The gray and brown player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-164",
+      "track_id": 18,
+      "frame_id": 537,
+      "query": "The player in gray and brown in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 5,
+      "frame_id": 584,
+      "query": "#10 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-077",
+      "track_id": 3,
+      "frame_id": 162,
+      "query": "The player positioned on the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c010",
+      "track_id": 17,
+      "frame_id": 342,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-102",
+      "track_id": 13,
+      "frame_id": 721,
+      "query": "The brown and gray player moving left near the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-076",
+      "track_id": 20,
+      "frame_id": 750,
+      "query": "The green and brown player moving right in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-107",
+      "track_id": 24,
+      "frame_id": 480,
+      "query": "number 15",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-065",
+      "track_id": 10,
+      "frame_id": 538,
+      "query": "The player standing near the left side.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-105",
+      "track_id": 14,
+      "frame_id": 185,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-112",
+      "track_id": 14,
+      "frame_id": 473,
+      "query": "The player in brown and gray near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-158",
+      "track_id": 1,
+      "frame_id": 545,
+      "query": "The gray and brown player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-113",
+      "track_id": 20,
+      "frame_id": 57,
+      "query": "The brown and green player moving up near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c008",
+      "track_id": 14,
+      "frame_id": 179,
+      "query": "player wearing #10",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 8,
+      "frame_id": 76,
+      "query": "The player positioned in the center circle and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-063",
+      "track_id": 2,
+      "frame_id": 75,
+      "query": "the player with jersey 30",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 6,
+      "frame_id": 449,
+      "query": "The player in green and brown in the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-100",
+      "track_id": 2,
+      "frame_id": 509,
+      "query": "player wearing #11",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_4LXTUim5anY_c002",
+      "track_id": 1,
+      "frame_id": 665,
+      "query": "the player in white and pink near center court",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-167",
+      "track_id": 19,
+      "frame_id": 389,
+      "query": "The brown and gray player moving right near the right touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 10,
+      "frame_id": 686,
+      "query": "number 23",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-063",
+      "track_id": 17,
+      "frame_id": 238,
+      "query": "The player positioned in the center circle and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-167",
+      "track_id": 19,
+      "frame_id": 389,
+      "query": "#6 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 18,
+      "frame_id": 292,
+      "query": "The player wearing number 9 in the center circle.",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c047",
+      "track_id": 11,
+      "frame_id": 170,
+      "query": "The player in the bright yellow kit near the goalmouth.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_4-EmEtrturE_c009",
+      "track_id": 7,
+      "frame_id": 203,
+      "query": "The player in pink and orange at center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-097",
+      "track_id": 22,
+      "frame_id": 749,
+      "query": "#20 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_4LXTUim5anY_c003",
+      "track_id": 4,
+      "frame_id": 308,
+      "query": "The player positioned at center court near the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c007",
+      "track_id": 10,
+      "frame_id": 90,
+      "query": "The pink and gray player moving up near center court and left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-063",
+      "track_id": 14,
+      "frame_id": 382,
+      "query": "The player in green and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 14,
+      "frame_id": 184,
+      "query": "The player in gray and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c003",
+      "track_id": 8,
+      "frame_id": 53,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-115",
+      "track_id": 22,
+      "frame_id": 532,
+      "query": "The player wearing brown and gray in the lower-right.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-099",
+      "track_id": 10,
+      "frame_id": 157,
+      "query": "#32 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_4-EmEtrturE_c009",
+      "track_id": 6,
+      "frame_id": 131,
+      "query": "number 30",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-157",
+      "track_id": 18,
+      "frame_id": 362,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 10,
+      "frame_id": 748,
+      "query": "the #8 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-071",
+      "track_id": 10,
+      "frame_id": 343,
+      "query": "The player in gray and brown in the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-065",
+      "track_id": 2,
+      "frame_id": 357,
+      "query": "the player with jersey 21",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-153",
+      "track_id": 2,
+      "frame_id": 150,
+      "query": "The player in an all-white kit with red boots near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 4,
+      "frame_id": 342,
+      "query": "The player in brown and green kit in the middle-center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c010",
+      "track_id": 1,
+      "frame_id": 230,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-103",
+      "track_id": 14,
+      "frame_id": 611,
+      "query": "The player wearing brown and green near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-163",
+      "track_id": 7,
+      "frame_id": 394,
+      "query": "The gray and brown player running right in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-166",
+      "track_id": 1,
+      "frame_id": 750,
+      "query": "The player in gray and purple near the penalty area.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-166",
+      "track_id": 15,
+      "frame_id": 177,
+      "query": "The player positioned between the central channel and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-151",
+      "track_id": 18,
+      "frame_id": 468,
+      "query": "The player in gray and brown kit near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 23,
+      "frame_id": 488,
+      "query": "The player wearing a gray and brown kit in the middle-center.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c013",
+      "track_id": 8,
+      "frame_id": 513,
+      "query": "The player in a blue and white striped kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-151",
+      "track_id": 18,
+      "frame_id": 468,
+      "query": "player wearing #7",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c600",
+      "track_id": 10,
+      "frame_id": 167,
+      "query": "The gray and brown player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-109",
+      "track_id": 19,
+      "frame_id": 535,
+      "query": "The player positioned in the central channel near the lower-center.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c009",
+      "track_id": 11,
+      "frame_id": 269,
+      "query": "The gray and brown player moving right in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c008",
+      "track_id": 0,
+      "frame_id": 115,
+      "query": "the player running near the paint area",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c008",
+      "track_id": 7,
+      "frame_id": 234,
+      "query": "The player positioned at center court and paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_cC2mHWqMcjk_c007",
+      "track_id": 11,
+      "frame_id": 556,
+      "query": "#2 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 24,
+      "frame_id": 454,
+      "query": "The player positioned in the central channel by the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-101",
+      "track_id": 16,
+      "frame_id": 295,
+      "query": "The player near the left side of the penalty area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 6,
+      "frame_id": 426,
+      "query": "The player in green and brown kit with neon boots.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-110",
+      "track_id": 4,
+      "frame_id": 343,
+      "query": "the brown and green player running right near the center circle",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-151",
+      "track_id": 4,
+      "frame_id": 197,
+      "query": "The gray and brown player moving left near the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 10,
+      "frame_id": 349,
+      "query": "The player in gray and pink near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 3,
+      "frame_id": 7,
+      "query": "player wearing #17",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c004",
+      "track_id": 1,
+      "frame_id": 10,
+      "query": "the gray and purple player moving left at center court",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-065",
+      "track_id": 13,
+      "frame_id": 321,
+      "query": "number 27",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c007",
+      "track_id": 13,
+      "frame_id": 363,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_9MHDmAMxO5I_c009",
+      "track_id": 0,
+      "frame_id": 506,
+      "query": "The player in a white and blue jersey with black knee pads.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c012",
+      "track_id": 0,
+      "frame_id": 322,
+      "query": "the player with jersey 9",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c010",
+      "track_id": 7,
+      "frame_id": 37,
+      "query": "The player in a gray and brown uniform at center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-109",
+      "track_id": 8,
+      "frame_id": 507,
+      "query": "The player is running to the right.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 2,
+      "frame_id": 13,
+      "query": "The player in brown and gray kit near midfield.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-100",
+      "track_id": 5,
+      "frame_id": 678,
+      "query": "The player positioned in the central channel near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c008",
+      "track_id": 0,
+      "frame_id": 15,
+      "query": "number 13",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 4,
+      "frame_id": 312,
+      "query": "the #23 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c004",
+      "track_id": 6,
+      "frame_id": 29,
+      "query": "The player in brown and green near the center channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 9,
+      "frame_id": 333,
+      "query": "player wearing #3",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c009",
+      "track_id": 15,
+      "frame_id": 422,
+      "query": "The player in gray and brown near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c009",
+      "track_id": 11,
+      "frame_id": 269,
+      "query": "The player positioned in the upper-center central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 19,
+      "frame_id": 735,
+      "query": "The gray and pink player moving left near the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-113",
+      "track_id": 14,
+      "frame_id": 42,
+      "query": "The player in brown and green near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c010",
+      "track_id": 19,
+      "frame_id": 349,
+      "query": "The player positioned close to the left touchline.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c007",
+      "track_id": 14,
+      "frame_id": 440,
+      "query": "The brown and green player moving right in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-114",
+      "track_id": 17,
+      "frame_id": 652,
+      "query": "The player in brown and gray near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 12,
+      "frame_id": 92,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 10,
+      "frame_id": 105,
+      "query": "The player positioned in the center circle area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_4r8QL_wglzQ_c001",
+      "track_id": 7,
+      "frame_id": 471,
+      "query": "number 20",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-112",
+      "track_id": 26,
+      "frame_id": 750,
+      "query": "The player in brown and green near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c600",
+      "track_id": 11,
+      "frame_id": 349,
+      "query": "The gray and brown player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 4,
+      "frame_id": 312,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-115",
+      "track_id": 14,
+      "frame_id": 61,
+      "query": "The player in brown and gray kit near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 2,
+      "frame_id": 482,
+      "query": "#14 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c008",
+      "track_id": 9,
+      "frame_id": 348,
+      "query": "the player positioned at the right wing near center court",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c011",
+      "track_id": 2,
+      "frame_id": 370,
+      "query": "The player in gray and brown near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c007",
+      "track_id": 10,
+      "frame_id": 279,
+      "query": "The player in gray and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 6,
+      "frame_id": 53,
+      "query": "The player positioned between the central channel and right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-072",
+      "track_id": 11,
+      "frame_id": 555,
+      "query": "The player in green and brown near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c077",
+      "track_id": 8,
+      "frame_id": 1034,
+      "query": "The brown and green player running near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_9MHDmAMxO5I_c006",
+      "track_id": 3,
+      "frame_id": 162,
+      "query": "the player with jersey 20",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-164",
+      "track_id": 13,
+      "frame_id": 750,
+      "query": "The player in gray and brown in the middle-center zone.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-074",
+      "track_id": 20,
+      "frame_id": 476,
+      "query": "The player running up the central channel.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 7,
+      "frame_id": 448,
+      "query": "The player near the center circle in the central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c053",
+      "track_id": 13,
+      "frame_id": 518,
+      "query": "The player in brown and gray near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-109",
+      "track_id": 17,
+      "frame_id": 195,
+      "query": "The pink and orange player moving left near the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-153",
+      "track_id": 2,
+      "frame_id": 150,
+      "query": "player wearing #5",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-152",
+      "track_id": 14,
+      "frame_id": 590,
+      "query": "The player positioned in the central channel and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 2,
+      "frame_id": 75,
+      "query": "number 17",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 11,
+      "frame_id": 639,
+      "query": "the player with jersey 10",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-109",
+      "track_id": 4,
+      "frame_id": 484,
+      "query": "The brown and green player moving right in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c007",
+      "track_id": 10,
+      "frame_id": 90,
+      "query": "The player in a pink and gray uniform near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_dw7LOz17Omg_c053",
+      "track_id": 9,
+      "frame_id": 389,
+      "query": "The player in brown and green kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-106",
+      "track_id": 1,
+      "frame_id": 203,
+      "query": "The player near the center circle in the central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1LwtoLPw2TU_c006",
+      "track_id": 11,
+      "frame_id": 161,
+      "query": "the player with jersey 7",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-107",
+      "track_id": 3,
+      "frame_id": 243,
+      "query": "The player in brown and gray near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 4,
+      "frame_id": 13,
+      "query": "the gray and brown player moving right in the central channel",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c013",
+      "track_id": 7,
+      "frame_id": 427,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c013",
+      "track_id": 9,
+      "frame_id": 207,
+      "query": "The gray and brown player moving up in the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-113",
+      "track_id": 29,
+      "frame_id": 709,
+      "query": "The brown and green player moving left near the right touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-073",
+      "track_id": 5,
+      "frame_id": 508,
+      "query": "The player running right in the central channel.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-111",
+      "track_id": 5,
+      "frame_id": 119,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-077",
+      "track_id": 19,
+      "frame_id": 342,
+      "query": "The player positioned in the central channel near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 7,
+      "frame_id": 47,
+      "query": "The player positioned by the left touchline and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_gQNyhv8y0QY_c013",
+      "track_id": 5,
+      "frame_id": 12,
+      "query": "The gray and brown player moving up the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 15,
+      "frame_id": 426,
+      "query": "number 25",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c006",
+      "track_id": 6,
+      "frame_id": 860,
+      "query": "The player positioned in the central channel near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-103",
+      "track_id": 1,
+      "frame_id": 600,
+      "query": "The brown and green player running near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-153",
+      "track_id": 4,
+      "frame_id": 9,
+      "query": "the #23 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c012",
+      "track_id": 14,
+      "frame_id": 739,
+      "query": "The gray and brown player moving right near the right wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c009",
+      "track_id": 10,
+      "frame_id": 72,
+      "query": "The gray and brown player moving right along the left touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-075",
+      "track_id": 7,
+      "frame_id": 365,
+      "query": "The player in green and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 11,
+      "frame_id": 349,
+      "query": "number 25",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c007",
+      "track_id": 8,
+      "frame_id": 92,
+      "query": "The gray and brown player at center court is moving right.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-166",
+      "track_id": 23,
+      "frame_id": 432,
+      "query": "The player running up the central channel.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-108",
+      "track_id": 19,
+      "frame_id": 607,
+      "query": "The player positioned in the central channel area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 9,
+      "frame_id": 649,
+      "query": "#1 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c010",
+      "track_id": 10,
+      "frame_id": 48,
+      "query": "The player in white and black is shuffling defensively.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-154",
+      "track_id": 21,
+      "frame_id": 508,
+      "query": "player wearing #25",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-076",
+      "track_id": 25,
+      "frame_id": 725,
+      "query": "The player positioned in the central channel near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c007",
+      "track_id": 3,
+      "frame_id": 25,
+      "query": "The player positioned at center court and in the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c011",
+      "track_id": 1,
+      "frame_id": 507,
+      "query": "The player in pink and orange near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-167",
+      "track_id": 9,
+      "frame_id": 744,
+      "query": "The brown and gray player moving up in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-152",
+      "track_id": 3,
+      "frame_id": 730,
+      "query": "The player positioned in the central channel near the right wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-155",
+      "track_id": 15,
+      "frame_id": 131,
+      "query": "The player in gray and brown kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-115",
+      "track_id": 6,
+      "frame_id": 296,
+      "query": "The player in brown and gray kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 7,
+      "frame_id": 476,
+      "query": "The player positioned in the center circle area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_cC2mHWqMcjk_c008",
+      "track_id": 1,
+      "frame_id": 20,
+      "query": "The player positioned at center court near the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_0kUtTtmLaJA_c007",
+      "track_id": 2,
+      "frame_id": 93,
+      "query": "The player in all white, jumping at the right side net.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-157",
+      "track_id": 3,
+      "frame_id": 743,
+      "query": "The player wearing pink and gray in the middle-center area.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c002",
+      "track_id": 8,
+      "frame_id": 302,
+      "query": "The player positioned at center court and in the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-115",
+      "track_id": 3,
+      "frame_id": 18,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c007",
+      "track_id": 20,
+      "frame_id": 287,
+      "query": "The player on the right wing is running left.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 16,
+      "frame_id": 421,
+      "query": "The green and brown player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-168",
+      "track_id": 11,
+      "frame_id": 675,
+      "query": "The player positioned in the central channel near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 15,
+      "frame_id": 279,
+      "query": "The player positioned in the middle-center near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-065",
+      "track_id": 18,
+      "frame_id": 542,
+      "query": "The green and white player wearing number 44 in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-156",
+      "track_id": 5,
+      "frame_id": 625,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 4,
+      "frame_id": 560,
+      "query": "The green and white player wearing number 44 moving downfield.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-109",
+      "track_id": 10,
+      "frame_id": 96,
+      "query": "The brown and gray player moving left in the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c008",
+      "track_id": 12,
+      "frame_id": 284,
+      "query": "The player positioned in the upper-center penalty area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-165",
+      "track_id": 24,
+      "frame_id": 538,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 4,
+      "frame_id": 79,
+      "query": "the player with jersey 15",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-166",
+      "track_id": 22,
+      "frame_id": 583,
+      "query": "The brown and gray player moving right near the left touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-168",
+      "track_id": 10,
+      "frame_id": 9,
+      "query": "The player in white and pink near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c005",
+      "track_id": 7,
+      "frame_id": 539,
+      "query": "The white and pink uniformed player moving left at center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-170",
+      "track_id": 20,
+      "frame_id": 442,
+      "query": "The player in the white kit with a blue sash.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c004",
+      "track_id": 3,
+      "frame_id": 91,
+      "query": "The player in yellow and orange near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-110",
+      "track_id": 23,
+      "frame_id": 313,
+      "query": "The player in pink and gray in the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_cC2mHWqMcjk_c007",
+      "track_id": 5,
+      "frame_id": 201,
+      "query": "The player is shuffling near center court.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-167",
+      "track_id": 8,
+      "frame_id": 598,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-165",
+      "track_id": 14,
+      "frame_id": 8,
+      "query": "the player in gray and brown near the center circle",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-158",
+      "track_id": 13,
+      "frame_id": 616,
+      "query": "The gray and brown player moving left in the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-098",
+      "track_id": 4,
+      "frame_id": 189,
+      "query": "The player in brown and gray near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-069",
+      "track_id": 16,
+      "frame_id": 534,
+      "query": "the player with jersey 19",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-060",
+      "track_id": 4,
+      "frame_id": 169,
+      "query": "The player positioned in the central channel near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-065",
+      "track_id": 4,
+      "frame_id": 403,
+      "query": "The gray and brown player moving left in the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-102",
+      "track_id": 22,
+      "frame_id": 658,
+      "query": "The official near the center circle in the central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-076",
+      "track_id": 26,
+      "frame_id": 607,
+      "query": "The brown and gray player moving down near the right touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 13,
+      "frame_id": 431,
+      "query": "The player positioned in the center circle and central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 5,
+      "frame_id": 333,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-107",
+      "track_id": 17,
+      "frame_id": 258,
+      "query": "The player in brown and green kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c601",
+      "track_id": 18,
+      "frame_id": 285,
+      "query": "The player dribbling down the middle-left side of the pitch.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_5ekaksddqrc_c003",
+      "track_id": 8,
+      "frame_id": 1012,
+      "query": "The player in the yellow and orange uniform near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-075",
+      "track_id": 14,
+      "frame_id": 277,
+      "query": "player wearing #10",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-114",
+      "track_id": 4,
+      "frame_id": 433,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-098",
+      "track_id": 3,
+      "frame_id": 64,
+      "query": "The brown and green player running near the center circle in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-164",
+      "track_id": 7,
+      "frame_id": 169,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_4r8QL_wglzQ_c001",
+      "track_id": 1,
+      "frame_id": 516,
+      "query": "The player in the pink and yellow jersey near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c047",
+      "track_id": 17,
+      "frame_id": 271,
+      "query": "The player in brown and gray kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-114",
+      "track_id": 7,
+      "frame_id": 106,
+      "query": "The player in brown and green kit near the central channel.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-170",
+      "track_id": 24,
+      "frame_id": 438,
+      "query": "number 30",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-165",
+      "track_id": 8,
+      "frame_id": 491,
+      "query": "#17 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c012",
+      "track_id": 4,
+      "frame_id": 143,
+      "query": "The player positioned at center court in the paint.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_4r8QL_wglzQ_c001",
+      "track_id": 2,
+      "frame_id": 64,
+      "query": "the player with jersey 33",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 23,
+      "frame_id": 704,
+      "query": "The white and blue player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-061",
+      "track_id": 1,
+      "frame_id": 101,
+      "query": "The player positioned in the center circle area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-155",
+      "track_id": 22,
+      "frame_id": 577,
+      "query": "The player wearing gray and pink in the middle-right area.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c010",
+      "track_id": 1,
+      "frame_id": 230,
+      "query": "number 7",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-101",
+      "track_id": 2,
+      "frame_id": 287,
+      "query": "The player in gray and yellow sprinting toward the goal.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-163",
+      "track_id": 2,
+      "frame_id": 553,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_2QhNRucNC7E_c017",
+      "track_id": 17,
+      "frame_id": 256,
+      "query": "The player in gray and brown near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 21,
+      "frame_id": 460,
+      "query": "The brown and gray player moving up the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-067",
+      "track_id": 26,
+      "frame_id": 530,
+      "query": "The player in brown and orange near the left touchline.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-105",
+      "track_id": 5,
+      "frame_id": 52,
+      "query": "The player in brown and green near the left wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-073",
+      "track_id": 4,
+      "frame_id": 157,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_cC2mHWqMcjk_c008",
+      "track_id": 2,
+      "frame_id": 161,
+      "query": "The player in a white jersey running near center court.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-112",
+      "track_id": 14,
+      "frame_id": 473,
+      "query": "The player positioned between the central channel and left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-072",
+      "track_id": 5,
+      "frame_id": 257,
+      "query": "The player positioned along the central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-161",
+      "track_id": 12,
+      "frame_id": 249,
+      "query": "The player positioned in the center circle area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-097",
+      "track_id": 13,
+      "frame_id": 42,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-075",
+      "track_id": 21,
+      "frame_id": 82,
+      "query": "player wearing #15",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-170",
+      "track_id": 1,
+      "frame_id": 85,
+      "query": "The player in brown and gray near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c007",
+      "track_id": 14,
+      "frame_id": 391,
+      "query": "The brown and gray player moving left in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-160",
+      "track_id": 2,
+      "frame_id": 749,
+      "query": "the player in the gray and brown kit near the center circle",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_1yHWGw8DH4A_c047",
+      "track_id": 13,
+      "frame_id": 247,
+      "query": "The player in gray and brown near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c006",
+      "track_id": 23,
+      "frame_id": 879,
+      "query": "The brown and gray player standing near the right touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-062",
+      "track_id": 14,
+      "frame_id": 112,
+      "query": "The player in gray and brown kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-162",
+      "track_id": 12,
+      "frame_id": 635,
+      "query": "The gray and brown player running down the center circle area.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-075",
+      "track_id": 13,
+      "frame_id": 264,
+      "query": "The gray and brown player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_i2_L4qquVg0_c006",
+      "track_id": 9,
+      "frame_id": 512,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_BgwzTUxJaeU_c014",
+      "track_id": 1,
+      "frame_id": 548,
+      "query": "#14 on the pitch",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-159",
+      "track_id": 18,
+      "frame_id": 654,
+      "query": "The player positioned in the center circle area.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_ITo3sCnpw_k_c010",
+      "track_id": 6,
+      "frame_id": 537,
+      "query": "The player in brown and gray kit near the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c008",
+      "track_id": 1,
+      "frame_id": 361,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-163",
+      "track_id": 25,
+      "frame_id": 522,
+      "query": "The player in brown and gray near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_G-vNjfx1GGc_c004",
+      "track_id": 0,
+      "frame_id": 213,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-154",
+      "track_id": 8,
+      "frame_id": 483,
+      "query": "player wearing #32",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-070",
+      "track_id": 20,
+      "frame_id": 489,
+      "query": "The gray and brown player advancing in the central channel near the left wing.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-071",
+      "track_id": 18,
+      "frame_id": 316,
+      "query": "The brown and green player moving left in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-169",
+      "track_id": 11,
+      "frame_id": 151,
+      "query": "The player positioned in the central channel near the left wing.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-060",
+      "track_id": 19,
+      "frame_id": 176,
+      "query": "player wearing #15",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-102",
+      "track_id": 25,
+      "frame_id": 594,
+      "query": "The brown and green player standing by the right touchline.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-100",
+      "track_id": 13,
+      "frame_id": 229,
+      "query": "The player wearing brown and gray in the center circle.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-060",
+      "track_id": 2,
+      "frame_id": 38,
+      "query": "The gray and pink player moving right near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-066",
+      "track_id": 22,
+      "frame_id": 518,
+      "query": "The player positioned in the central channel near the center circle.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c003",
+      "track_id": 1,
+      "frame_id": 556,
+      "query": "the #3 player",
+      "type": "jersey_number",
+      "source": "human_verified",
+      "split": "val"
+    },
+    {
+      "sequence_id": "SNMOT-115",
+      "track_id": 6,
+      "frame_id": 296,
+      "query": "The brown and gray player moving left near the center circle.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "SNMOT-069",
+      "track_id": 24,
+      "frame_id": 619,
+      "query": "The pink and gray player moving left in the central channel.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-155",
+      "track_id": 21,
+      "frame_id": 227,
+      "query": "The player in brown and gray near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-068",
+      "track_id": 16,
+      "frame_id": 435,
+      "query": "The player in brown and gray near the right wing.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "SNMOT-074",
+      "track_id": 14,
+      "frame_id": 60,
+      "query": "The player positioned in the lower-center near the central channel.",
+      "type": "spatial",
+      "source": "human_verified",
+      "split": "test"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c011",
+      "track_id": 2,
+      "frame_id": 370,
+      "query": "The gray and brown player moving down at center court in the paint.",
+      "type": "composite",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_9MHDmAMxO5I_c006",
+      "track_id": 1,
+      "frame_id": 172,
+      "query": "The player in white jersey is defending.",
+      "type": "action",
+      "source": "human_verified",
+      "split": "train"
+    },
+    {
+      "sequence_id": "v_00HRwkvvjtQ_c003",
+      "track_id": 2,
+      "frame_id": 827,
+      "query": "The player wearing a black and brown uniform near center court.",
+      "type": "appearance",
+      "source": "human_verified",
+      "split": "val"
+    }
+  ]
+}
