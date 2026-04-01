@@ -1,0 +1,15 @@
+{
+  "split": "test",
+  "provider": "deepseek",
+  "query_distribution": {
+    "appearance": 290,
+    "spatial": 294,
+    "composite": 273,
+    "action": 37
+  },
+  "stats": {
+    "published_sequences": 17,
+    "published_tracks": 311,
+    "published_expressions": 894
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "package": "refer-sportsmot-anon-20260401",
+  "totals": {
+    "sequences": 116,
+    "tracks": 2145,
+    "expressions": 7291
+  },
+  "query_distribution": {
+    "appearance": 1972,
+    "jersey_number": 1197,
+    "spatial": 1979,
+    "action": 228,
+    "composite": 1915
+  },
+  "splits": {
+    "train": {
+      "sequences": 81,
+      "tracks": 1505,
+      "expressions": 5093
+    },
+    "val": {
+      "sequences": 18,
+      "tracks": 329,
+      "expressions": 1122
+    },
+    "test": {
+      "sequences": 17,
+      "tracks": 311,
+      "expressions": 1076
+    }
+  }
+}

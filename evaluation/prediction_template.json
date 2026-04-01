@@ -1,0 +1,24 @@
+{
+  "sequences": [
+    {
+      "sequence_id": "example_sequence",
+      "predictions": [
+        {
+          "expression_id": "example_expression",
+          "trajectory": [
+            {
+              "frame_id": 1,
+              "track_id": 1,
+              "bbox": [
+                0,
+                0,
+                10,
+                10
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
