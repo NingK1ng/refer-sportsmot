@@ -1,16 +1,13 @@
 {
   "split": "train",
-  "provider": "deepseek",
+  "sequences": 81,
+  "tracks": 1505,
+  "expressions": 5093,
   "query_distribution": {
-    "appearance": 1376,
-    "spatial": 1377,
-    "composite": 1346,
     "action": 159,
-    "jersey_number": 4
-  },
-  "stats": {
-    "published_sequences": 81,
-    "published_tracks": 1505,
-    "published_expressions": 4262
+    "appearance": 1376,
+    "composite": 1346,
+    "jersey_number": 835,
+    "spatial": 1377
   }
 }
